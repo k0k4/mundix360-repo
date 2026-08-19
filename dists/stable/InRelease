@@ -4,41 +4,41 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 19 Aug 2026 01:35:18 +0000
+Date: Wed, 19 Aug 2026 01:37:43 +0000
 Description: Repositório APT do appliance Mundix Security 360
 Label: Mundix Security 360
 Origin: Mundix
 Suite: stable
 MD5Sum:
- 375ad20087fca2515b38a1f69d4def33              210 Release
- f80824555189a5482df3b845bc797412             1334 main/binary-all/Packages
- 8b56b6311f0647be15ba4a0676f84c09              856 main/binary-all/Packages.gz
+ 1ef3268b9e222cd7e236f80d4dcc40ac              210 Release
+ 00e276f669564b93b2bd28dce2e66689             1334 main/binary-all/Packages
+ 767de92948b86a9c034a8594194df16f              855 main/binary-all/Packages.gz
 SHA1:
- 6a7b3dec442be706ac514725883a7e9ac72c69f8              210 Release
- 4e2b40916675a2434783f3d0bf67619b8952457e             1334 main/binary-all/Packages
- fcb7ceb0f35b66c8d2bb553278428e8062e28db2              856 main/binary-all/Packages.gz
+ e5c9db1651b5a388edf5ccc87f18a566d1f83b85              210 Release
+ 485914b39a364417a22544004ba12601b757a468             1334 main/binary-all/Packages
+ 8af80f8156d744b508e7151a75e536dd1d15575a              855 main/binary-all/Packages.gz
 SHA256:
- 20d24be997f963f37822c4790ec6dc644a064c0829029db564cd79f3921fbc90              210 Release
- 18c6dbb48f92a7e5793a75b696b4b112493fd0e5eef8b132654a9fdde980c473             1334 main/binary-all/Packages
- 00d79420d84b89cab20daebb45105ac3148d2581634b3a778358bd69dba00431              856 main/binary-all/Packages.gz
+ 935577bc06c51ed6b85e2fb8942b73869528197ff5ae5e9de0a02e2d2c487a53              210 Release
+ c8ca278a9cc811897346e55447e86bc178186dd389505e7191be7f8b89e940af             1334 main/binary-all/Packages
+ b6f9f90f3c80f3fe075c63100506411aa7c0f067eb219b6ca499ad6557f3bb73              855 main/binary-all/Packages.gz
 SHA512:
- 6d08eec60ee6b300c37317289aaec271ed59df7267e4bb499d7b4967f912b503e0a05baf42cb6473aae07635315d86d0ebc21a82e5c1bd25d72b3d41afcd2569              210 Release
- 826bf2c9aff18f5958694b301283fa4aa275ecff3f6b0206aed401915a6e8b8bf711fc6762b415b553c1f4287f0765a7070afd0f28f059fd78e66078c377b814             1334 main/binary-all/Packages
- e3d1fe4d36000cff3ff71dae1547582e6f70418482e01218136d783bd5d13c9bf00a7ea14dbda937c29b0a416792fea71437ec51d820ea52fe765af6c718a617              856 main/binary-all/Packages.gz
+ 25e038e9a9ecdb8174dd48d50592615524ce508ec1e081497a3ca9a12257c824a9d1528499cae85ab6da6555e81fa1e1a7c0ec5b1a24c6583e65f8aaf2772360              210 Release
+ 22fde4da5ab418e2ad9a1b724cc28926e4b125c46fee79c7efde28b56307ebca851e36512fa9120053b9d0f0b170141fb1e67f9d27b29a04e6bd6b1179975419             1334 main/binary-all/Packages
+ 17380dc5e38505fa0ccf1fe4549d2d80f374153c1d4574b5bc5279a9b419ecaa7fca3642dd603703c419632d615db2ee0fb338b66fb69b49fe86a19b86d241d1              855 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJJBAEBCgAzFiEEfmp1QIriPBoKd1MLk4V1L1gM100FAmqFCFYVHHJlcG9AbXVu
-ZGl4MzYwLmxvY2FsAAoJEJOFdS9YDNdNcMkP/1r2bmvwBEL6mmwQAiGDLmsYiKnq
-V7+6VZ+8go/IYb92u/j52R45eIaykOzjq4Qhy0pRlN5hNErM8fMiw1T28em1JAtS
-Qr2P0xDq6fAc9heOKiEhY2R/0l3PNFKmfe7hfXmqX0IcRnb3ol4nvpSLX4ssUdzr
-b929+H9q34FOUSDFjSDP6//ekQYb58eUYLm+UApywgr2UYXiLVRphK/8vTdgtPa0
-YOXRYQUVUB+faWZulGDCMvIrP2CYhyMpT8g6pT4tH9q2qIgPmAdXzefMPQbZFkQ1
-7IYCp7pkU3idUqj0RcklvFeOf/4ftgm2DWYGYsqt259rig37k3C/3PtUEmJVxTPN
-Oku4n7lXbAnbzdcMhzizgD49VYHXAuZdCylL1yQxyz0TwPJz+S5j5xEg6UEbmlz2
-nQ6FNTOHUPsc9akVFAABMLulZxZnFIhP+gyaL39JrIAXn21cKpVpDb724PQe1nUz
-b+LgoBnTLelh5B3hxb3LoKzXzgzO2gGdZCzpE78IHtBSdqIh56bUMCE+He11nQBp
-wdMG5gtxScwGrLHcWS6uP2VwtyvKSJUkR+U6Cj5+yuAexXCJYKLL8jvztk0t7B2L
-56EmMIOhH5aibyS0tPkZL2NMcXHHcqbn4bwa9Z+Fcw1hn3ZpIIU6cr55fux2cvO1
-k9OoKDS4tASzUL2H
-=sBDy
+iQJJBAEBCgAzFiEEfmp1QIriPBoKd1MLk4V1L1gM100FAmqFCOcVHHJlcG9AbXVu
+ZGl4MzYwLmxvY2FsAAoJEJOFdS9YDNdNoMAQAKXHi8tqXNCy7MhgxgdD3iCvwS7U
+klwCeOsfRZsuMuBuGH869wJTtxOLnHMbBEspnwiW4QszXcuCJGgWyebfisxEAH86
+x/lHJlAqrF6tODWUBAhKgX92EZqDnvDaN5tMo5YY0/ykHdfYEDzVulVTnq7jWbU5
+Fud1QQ3LFzxiRfaASvBzHIXJ6f42a8L0tLabEvoVl67/Gs7tiLsya7QNtwLXrnOL
+ds+kKBgo6bJ5etUkqNJ3sy4eO5afp7hMZknoLoHNngGsfuHIbwNcPYsmQsMyefu5
+NWR5bRccte3ctS4SpBYR/7W9uJfus5zLWAsVsRnBCndCq8AuxltrZBlDdJvIxfLb
+tsg9AhiehK6bV9xCB4/UT2gg8WbP1iUN9vPkdBtLM9vg0a6cmoILQm4SQr28qweW
+mBH5Qj5IQfMcDQj5mWo3r6uEYdRV4sSbRYJX1J980nUI6B+SHzFaTGKxWWrib/PH
+N5RiiJOWocouy7X3Ji4hq6z0U8I2WU9s+3gOvedRhx94nHs28jzG5u0+lfzctGiJ
+/0aOu6t7kHn/g1TEjker+ImQ9FZXcnDkCtr8qFG/4ZHtNvTX84bFfP7eFuTwiTIp
+EcpQaudFh+0g7XN4vYe4Gw7noOckwWCVbReKpHBgZj2AHJRp2Ey1VwFuir51qAEk
+kK4aHaPzFsbY4WI/
+=SmHi
 -----END PGP SIGNATURE-----

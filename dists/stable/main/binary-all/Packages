@@ -5,10 +5,10 @@ Maintainer: Mundix Security 360 <suporte@mundix360.local>
 Depends: nftables, dnsmasq, dnsmasq-base, iproute2, iputils-ping, nginx, libnginx-mod-http-modsecurity, modsecurity-crs, suricata, suricata-update, wireguard-tools, qrencode, openvpn, easy-rsa, openfortivpn, python3, python3-venv, python3-pip, curl, ca-certificates, openssl, zstd, jq
 Recommends: clickhouse-server, clickhouse-common-static, valkey-server
 Filename: pool/main/mundix360_1.1.0-1_all.deb
-Size: 971840
-MD5sum: 975ad7e278c015a0f448ea3bf302942b
-SHA1: 51fc0dd3c1e3b305437ea0708c8c4b4065352207
-SHA256: d86877449546da7bedd113cad933321c28b5701b83623b5420ec83bd7313c9bf
+Size: 971942
+MD5sum: 1e9be533f22dd494fea4dc76697342f2
+SHA1: c76f82c5e6ee770dbbb6ee4447e9f84666b43f03
+SHA256: 69c3e285f2dd2009d4b93d19c3217c1384f0d9f7f90dedb9d729b886ed00dbb1
 Section: net
 Priority: optional
 Homepage: https://github.com/k0k4/mundix360
