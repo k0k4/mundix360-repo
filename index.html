@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Mundix Security 360 — canal de atualizações</title>
+<style>body{font-family:sans-serif;max-width:760px;margin:3rem auto;padding:0 1rem;background:#0b1220;color:#dbe4f0}code,pre{background:#131c2e;padding:.2rem .4rem;border-radius:6px}pre{padding:1rem;overflow:auto}</style></head>
+<body>
+<h1>Mundix Security 360 — canal de atualizações estáveis</h1>
+<p>Repositório APT assinado com o pacote <code>mundix360</code> (somente versões estáveis publicadas em release). Projeto: <a href="https://github.com/k0k4/mundix360" style="color:#7aa5ff">github.com/k0k4/mundix360</a>.</p>
+<h2>Configurar o canal num appliance</h2>
+<pre>sudo /opt/mundix360/scripts/ops/mundix-upgrade.sh --setup-channel</pre>
+<p>ou manualmente:</p>
+<pre>sudo curl -fsSL https://k0k4.github.io/mundix360-repo/mundix-repo.gpg -o /usr/share/keyrings/mundix-repo.gpg
+echo "deb [signed-by=/usr/share/keyrings/mundix-repo.gpg] https://k0k4.github.io/mundix360-repo stable main" | sudo tee /etc/apt/sources.list.d/mundix360.list
+sudo apt update</pre>
+<h2>Verificar / atualizar</h2>
+<pre>sudo /opt/mundix360/scripts/ops/mundix-upgrade.sh --check   # só verifica
+sudo /opt/mundix360/scripts/ops/mundix-upgrade.sh           # aplica a estável mais nova</pre>
+<p>Pelo painel: <em>Sistema → Atualizações → Verificar atualizações</em>.</p>
+<hr><p><small>Mundix Security 360 — Projeto de Lucieliton Mundim · +55 62 98438-4774</small></p>
+</body></html>
