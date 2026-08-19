@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 19 Aug 2026 01:31:03 +0000
+Date: Wed, 19 Aug 2026 01:35:18 +0000
 Description: Repositório APT do appliance Mundix Security 360
 Label: Mundix Security 360
 Origin: Mundix
 Suite: stable
 MD5Sum:
- cd45db6936248e9bb768b5e7b24d918d              210 Release
+ 375ad20087fca2515b38a1f69d4def33              210 Release
  f80824555189a5482df3b845bc797412             1334 main/binary-all/Packages
- afcc5421f00cfc7f9b167f2d96221540              856 main/binary-all/Packages.gz
+ 8b56b6311f0647be15ba4a0676f84c09              856 main/binary-all/Packages.gz
 SHA1:
- f88ed5036041ffa38b86cb4ce49858656fe619c6              210 Release
+ 6a7b3dec442be706ac514725883a7e9ac72c69f8              210 Release
  4e2b40916675a2434783f3d0bf67619b8952457e             1334 main/binary-all/Packages
- f52d4cc14014c850e1775362314ec75e577704e8              856 main/binary-all/Packages.gz
+ fcb7ceb0f35b66c8d2bb553278428e8062e28db2              856 main/binary-all/Packages.gz
 SHA256:
- 15d185a33edcd8335c7b1f79b94877dd655b3c593acc7e8943a49134a1640fd2              210 Release
+ 20d24be997f963f37822c4790ec6dc644a064c0829029db564cd79f3921fbc90              210 Release
  18c6dbb48f92a7e5793a75b696b4b112493fd0e5eef8b132654a9fdde980c473             1334 main/binary-all/Packages
- 1e67697ed7680e0eca94e141a590e7239baf26f1b629ba0a88fd304f2dc33738              856 main/binary-all/Packages.gz
+ 00d79420d84b89cab20daebb45105ac3148d2581634b3a778358bd69dba00431              856 main/binary-all/Packages.gz
 SHA512:
- fccdec0a127dfffa2d1cb73d25c5ee359283a42e0401564c59fc319a40d3a886a647d9def20a4169fe3b9c24d7551b9187c69665c95206202adcea09655ba7d2              210 Release
+ 6d08eec60ee6b300c37317289aaec271ed59df7267e4bb499d7b4967f912b503e0a05baf42cb6473aae07635315d86d0ebc21a82e5c1bd25d72b3d41afcd2569              210 Release
  826bf2c9aff18f5958694b301283fa4aa275ecff3f6b0206aed401915a6e8b8bf711fc6762b415b553c1f4287f0765a7070afd0f28f059fd78e66078c377b814             1334 main/binary-all/Packages
- 3645af6ef262b4e1453c47fa7cf19789924f0e9ed877f767b2d6f5690485d4adb598180bac66aa0f05481be9dff75ddf8396e74bbbacfcd104f0190d75453efa              856 main/binary-all/Packages.gz
+ e3d1fe4d36000cff3ff71dae1547582e6f70418482e01218136d783bd5d13c9bf00a7ea14dbda937c29b0a416792fea71437ec51d820ea52fe765af6c718a617              856 main/binary-all/Packages.gz
